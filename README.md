@@ -60,3 +60,7 @@ git push origin main
 | `git push` | Sube los cambios al remoto |
 
 > Documentar es parte del trabajo, no un extra al final.
+
+## Documentación del proyecto
+
+- [Guía del proyecto](docs/GUIA.md)
